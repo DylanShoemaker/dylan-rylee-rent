@@ -543,7 +543,7 @@ section {
     }
     
     .section-title {
-        width: 95%;
+        width: 100%;
     }
     
     .intro p {
@@ -564,5 +564,11 @@ section {
     .contact-form {
         order: 3;
     }
+    .contact-info address {
+        font-size: 25px;
+    }
+    .contact-info a {
+        font-size: 20px;
+    }
 }
-/* Thanks for taking the time to look at my work*/
+/* Thanks for taking the time to look at my work*
